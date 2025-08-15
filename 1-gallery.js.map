@@ -1,0 +1,1 @@
+{"version":3,"file":"1-gallery.js","sources":["../src/js/1-gallery.js"],"sourcesContent":["function add(a, b) {\n  return a + b;\n}\n\nconsole.log(add(10, 20));\n"],"names":["add","a","b"],"mappings":"wFAAA,SAASA,EAAIC,EAAGC,EAAG,CACjB,OAAOD,EAAIC,CACb,CAEA,QAAQ,IAAIF,EAAI,GAAI,EAAE,CAAC"}
